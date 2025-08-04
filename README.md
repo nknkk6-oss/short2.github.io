@@ -1,4 +1,4 @@
-# short2.github.io
+types of supply chain models?
 PPVC -HACCP FSC 22000 ISO 22000 2018
 Performance Planning Value Chain -Cold chain operations and key food safety systems like HACCP, ISO 22000:2018, and FSSC 22000. 
 This integrated view is essential if you’re building a performance-led, compliance-assured, and continuously improving cold chain system — especially for categories like dairy, frozen meat, seafood, or bakery.
