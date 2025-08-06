@@ -85,4 +85,7 @@ Performance Review:
 Use data from operations to conduct root cause analysis (RCA), and hold structured ISO-aligned management reviews to evaluate food safety performance and take corrective action if needed.
 
 Learning and Improvement:
-Integrate corrective and preventive actions (CAPA), continuously update SOPs based on learnings, and promote a culture of shared food safety knowledge across teams.
+Integrate corrective and preventive actions
+ (CAPA), continuously update SOPs based 
+on learnings, and promote a culture of 
+shared food safety knowledge across teams.
